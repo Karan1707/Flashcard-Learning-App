@@ -60,10 +60,6 @@ A data.csv file can be found in assets/data/data.csv which includes topics , que
 
 <img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/7.png?raw=true" width="300" height="500">
 
-## About Us
-
-<img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/8.png?raw=true" width="300" height="500">
-
 ## Exit pop-up
 
 <img src="https://github.com/SahilSK202/FlashCard_Flutter_Application/blob/main/assets/images/9.png?raw=true" width="300" height="500">
